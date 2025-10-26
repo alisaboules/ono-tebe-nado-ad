@@ -92,7 +92,6 @@
   display: block;
   text-align: center; 
   margin-left: 44px;
-
 }
 
 .aligned-text_right {
@@ -127,7 +126,6 @@
   font-weight: 500;
   font-style: Medium;
   font-size: 22px;
-  line-height: 100%;
   letter-spacing: 0%;
   text-align: center;
   text-transform: uppercase;
@@ -243,7 +241,7 @@
   display: flex;
 }
 
-.about__logo-image{
+.about__logo-image {
   width: 142px;
   height: 113px;
 }
