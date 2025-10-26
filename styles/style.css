@@ -21,8 +21,7 @@
   font-size: 18px;
   line-height: normal;
   text-decoration: none;
-  border-bottom: 1px solid;
-  font-style: normal;  
+  border-bottom: 1px solid;  
 }
 
 
@@ -42,7 +41,6 @@
   flex-direction: column;
   line-height: 24.3px;
   font-size: 18px;
-  font-style: normal; 
 }
 
 .header__address {
@@ -91,7 +89,7 @@
 .aligned-text_center {
   display: block;
   text-align: center; 
-  margin-left: 44px;
+  margin-left: 40px;
 }
 
 .aligned-text_right {
