@@ -21,7 +21,7 @@
   font-size: 18px;
   line-height: normal;
   text-decoration: none;
-  border-bottom: 1px solid;  
+  border-bottom: 1px solid;
 }
 
 
@@ -87,9 +87,9 @@
 }
 
 .aligned-text_center {
+  margin-left: 42px;
   display: block;
-  text-align: center; 
-  margin-left: 40px;
+  text-align: center;
 }
 
 .aligned-text_right {
