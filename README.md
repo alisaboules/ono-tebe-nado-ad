@@ -1,1 +1,1 @@
-https://github.com/alisaboules/ono-tebe-nado-ad
+https://github.com/alisaboules/ono-tebe-nado-ad.git
